@@ -1,1 +1,1 @@
-## Hi, I’m supreet-kulkarni I’m interested in wed development and data science
+## Hi, I’m supreet-kulkarni I’m interested in web development and data science
